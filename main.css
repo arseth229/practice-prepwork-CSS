@@ -2,10 +2,10 @@ h1 {
     font-size: ;
     font-family: ;
     padding: ;
-    margin: ;
+    margin-left: 39.59%;
     font-weight: ;
     text-decoration: ;
-    color: ;
+    color: lightcoral;
     background-color: ;
 }
 
@@ -13,7 +13,7 @@ h2 {
     font-size: ;
     font-family: ;
     padding: ;
-    margin: ;
+    margin: 0 0 0 39.8%;
     font-weight: ;
     color: ;
     background-color: ;
@@ -23,15 +23,27 @@ p {
     font-family: ;
     font-size: ;
     padding: ;
-    margin: ;
+    margin: 20px 0 0 0 ;
     color: ;
     background-color: ;
 }
 
+.tale {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px 0 0 0;
+    padding: 0 22% 0 20%;
+
+}
+
+em {
+    margin: 0 0 10% 37.5%;
+}
+
 .logo {
     background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
+    background-color: lightpink;
+    height: 70px;
+    width: 70px;
+    margin: 30px 0 0 46%;
 }
